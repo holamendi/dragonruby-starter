@@ -1,0 +1,6 @@
+devid=holamendi
+devtitle=holamendi
+gameid=dragonruby-starter
+gametitle=Dragonruby Starter
+version=0.1
+icon=metadata/icon.png
